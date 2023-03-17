@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 900 1370" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 1390" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -79,8 +79,9 @@
         <hr/>
         <h3 class="title">👀 About Me</h3>
         <hr/>
-        <p><strong>TL;DR:</strong> I'm a mechatronics engineer coming from an industry-heavy background looking to turn life around through coding. Cheers! 🍻</p>
-        <p>Long version: I have a degree in Mechatronics Engineering and a long experience working in Industry: I designed ar-conditioning systems, wrote firmware for programmable logic computer (PLC) modules and eventually switched to the semiconductor industry, where I finished my Masters Degree in Electrical Engineering and went on to become a Semiconductor Packaging Specialist with almost 10 years of experience. However, I have long considered transitioning to a coding career, since I REALLY love it and believe it to be my true vocation. I've always had a knack for programming (be it automating everything with bash scripts and Visual Basic for Applications at work or even my happy time programming with C at the beginning of my career) and finally mustered the courage to leave the comfort zone and dive into something new, so here I am!</p>
+        <p>I have a degree in Mechatronics Engineering and a long experience working in Industry: I designed ar-conditioning systems, wrote firmware for programmable logic computer (PLC) modules and eventually moved to the semiconductor industry, where I finished my Masters Degree in Electrical Engineering and went on to become a Semiconductor Packaging Specialist with almost 10 years of experience. However, I have long considered transitioning to a coding career, since I really love it and believe it to be my true vocation. I've always had a knack for programming (be it automating everything with bash scripts and Visual Basic for Applications at work or even my happy time programming with C at the beginning of my career) and finally mustered the courage to leave the comfort zone and dive into something new, so here I am!</p>
+        <p>(Also, I'm a boardgame and tabletop RPG geek 🤓)</p>
+        <p>Cheers! 🍻</p>
         </div>
         <div class="text">
           <h3 class="title">💼 Technical Skills</h3>
